@@ -1,6 +1,9 @@
 Michael Onyango
 
 Software Engineer focused on building web applications, mobile applications, and scalable digital systems.
+## Activity Overview
+
+
 
 I work across frontend, backend, mobile development, and system architecture with interest in AI integration and cybersecurity.
 
@@ -76,3 +79,5 @@ Connect
 
 - Portfolio: https://eloquentmike-portfolio.vercel.app/
 - Email: okechmichael2004@gmail.com
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okech-michael&theme=github_dark)
+
