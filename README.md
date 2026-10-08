@@ -1,7 +1,7 @@
 # Michael Onyango
 
 ### Software Engineer · Product Builder · Technology Entrepreneur
-![Profile Views](https://komarev.com/ghpvc/?username=okech-michael&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 I build software products and digital systems that solve practical problems.
 
@@ -12,7 +12,7 @@ I am interested in building technology that can move from an idea into something
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square\&logo=vercel\&logoColor=white)](https://eloquentmike-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-okech--michael-111827?style=flat-square\&logo=github\&logoColor=white)](https://github.com/okech-michael)
 [![Email](https://img.shields.io/badge/Email-Contact-111827?style=flat-square\&logo=gmail\&logoColor=white)](mailto:okechmichael2004@gmail.com)
-
+![Profile Views](https://komarev.com/ghpvc/?username=okech-michael&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ## About Me
