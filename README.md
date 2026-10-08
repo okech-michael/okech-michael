@@ -1,6 +1,7 @@
 # Michael Onyango
 
 ### Software Engineer · Product Builder · Technology Entrepreneur
+![Profile Views](https://komarev.com/ghpvc/?username=okech-michael&label=Profile%20Views&color=0e75b6&style=flat)
 
 I build software products and digital systems that solve practical problems.
 
