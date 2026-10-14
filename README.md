@@ -86,3 +86,16 @@ I tutor students and emerging developers in programming and practical software d
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okech-michael&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okech-michael&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okech-michael&layout=compact&hide_border=true&theme=github_dark" height="165" />
+</p>
