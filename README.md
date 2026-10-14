@@ -14,12 +14,16 @@ Based in Kisii, Kenya · Open to collaboration and freelance work
 
 ### [AfyaRadar](https://github.com/okech-michael/Afyaradar)
 Disease outbreak mapping, prediction, and alert system.
-**Stack:** _add your stack here_
+
+**Stack:** TypeScript · Python
 
 ## Hackathon Wins
 
 ### [AgriFusion AI](https://github.com/Zallypam/AgriFusion)
-AI-powered agriculture platform. Won with my team at:
+AI-powered agriculture platform, built with my team.
+
+**Stack:** JavaScript · CSS
+
 - 🏆 **Gusii Innovations Week Hackathon 2025**
 - 🏆 **WRRIC Multidisciplinary Mini Hackathon**, Kisii University
 
@@ -39,20 +43,46 @@ AI-powered agriculture platform. Won with my team at:
 
 ---
 
-## Community
+## Teaching
 
-- **Chairperson**, Ajira Digital Club, Kisii University
-- **Lead**, Lakeside Devs Community
-- Tutor to students and emerging developers
+I tutor students and emerging developers in programming and practical software development.
 
-## Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-111827?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-111827?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-111827?style=flat-square&logo=firebase&logoColor=white)
+## Technology
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,react" />
+</p>
+
+### Databases & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase,firebase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
